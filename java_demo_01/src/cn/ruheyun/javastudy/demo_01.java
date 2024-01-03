@@ -1,3 +1,5 @@
+package cn.ruheyun.javastudy;
+
 import java.util.Scanner;
 
 public class demo_01 {
