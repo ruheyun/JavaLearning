@@ -1,4 +1,6 @@
-public class code_1 {
+package com.leetcode.practice01;
+
+public class code01 {
     public static void main(String[] args) {
         int[] nums = new int[]{3,3};
         int target = 6;
